@@ -150,8 +150,8 @@ jupyter notebook UAP.ipynb
 
 **Nama:** Niken Permata
 **Mata Kuliah:** Ujian Akhir Praktikum
-**Program Studi:** (isi prodi)
-**Universitas:** (isi kampus)
+**NIM:** 202210370311350
+**Kelas:** C
 
 ---
 
